@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">P07 - Simple To Do</string>
+    <string name="task">Add Task Here</string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="del">DELETE</string>
+    <string-array name="choice">
+        <item>Add new task</item>
+        <item>Remove a task</item>
+    </string-array>
 </resources>
